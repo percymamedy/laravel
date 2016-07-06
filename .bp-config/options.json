@@ -1,0 +1,28 @@
+{
+  "PHP_70_LATEST": "7.0.4",
+  "PHP_VERSION": "{PHP_70_LATEST}",
+  "COMPOSER_VENDOR_DIR": "vendor",
+  "COMPOSER_VERSION": "latest",
+  "WEBDIR": "public",
+  "PHP_EXTENSIONS": [
+    "bz2",
+    "zlib",
+    "curl",
+    "mcrypt",
+    "gd",
+    "zip",
+    "mbstring",
+    "exif",
+    "gettext",
+    "mysqli",
+    "openssl",
+    "pdo",
+    "pdo_mysql",
+    "pdo_pgsql",
+    "soap",
+    "sockets",
+    "pdo_sqlite",
+    "fileinfo",
+    "gmp"
+  ]
+}
